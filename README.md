@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-☣️
-:zap:
+<font color=#234232>asdasd</font>
